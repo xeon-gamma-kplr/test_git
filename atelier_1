@@ -1,0 +1,13 @@
+Créez votre compte GitHub
+Configurer Git.
+Créez un nouveau répertoire sur votre ordinateur local.
+Transformez-le en dépôt Git. 
+Créez un nouveau fichier nommé "file" contenant le texte "hello commit". "
+Ajoutez le fichier "file" a l'index Git.
+Commitez votre nouveau fichier.
+Exécutez une commande Git pour vérifier que votre commit a bien été enregistré.
+
+git init
+git add file.txt
+git commit -m "file"
+git log 
